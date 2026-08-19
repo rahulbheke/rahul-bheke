@@ -22,6 +22,7 @@ DevOps: Jenkins | Docker | Git | CI/CD
 
 Featured Projects
 https://github.com/rahulbheke/Multimodal-AI-Explorer
+https://github.com/rahulbheke/qatestgenie
 
 About Me
 
