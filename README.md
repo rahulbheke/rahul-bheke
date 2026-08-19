@@ -21,8 +21,7 @@ Languages: Java | Python | SQL
 DevOps: Jenkins | Docker | Git | CI/CD
 
 Featured Projects
-
-[See pinned repositories below for live examples]
+https://github.com/rahulbheke/Multimodal-AI-Explorer
 
 About Me
 
